@@ -1,3 +1,7 @@
 Making changes in git hub
 Making changes in local repository.
+<<<<<<< HEAD
 Adding this line on local repository.
+=======
+Adding the third line in remote repository.
+>>>>>>> 389bac6e1c27e52e9adbed81606b8a4c214120e4
