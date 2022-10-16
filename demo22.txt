@@ -7,4 +7,4 @@ Adding the third line in remote repository.
 >>>>>>> 389bac6e1c27e52e9adbed81606b8a4c214120e4
 
 Making changes from replit.
-Making changes on git hub.
+Made changes on git hub.
